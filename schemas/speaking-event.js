@@ -37,6 +37,8 @@ export default {
           { title: "Talk", value: "Talk" },
           { title: "Workshop", value: "Workshop" },
           { title: "YouTube", value: "YouTube" },
+          { title: "Live Stream", value: "livestream" },
+          { title: "Twitch", value: "twitch" },
         ],
       },
     },
